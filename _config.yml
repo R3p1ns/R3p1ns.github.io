@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://R3p1ns.github.io"
 
 github:
   username: R3p1ns # change to your github username
@@ -104,7 +104,7 @@ social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
-
++
 comments:
   # Global switch for the post comment system. Keeping it empty means disabled.
   provider: # [disqus | utterances | giscus]
