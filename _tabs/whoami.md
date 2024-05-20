@@ -11,5 +11,4 @@ I am a student currently studying Cyber Security, with a passion for cybersecuri
 
 Dài dòng thế thôi mong anh em đọc blog mình có thể học thêm được vài thứ, blog này chủ yếu để mình ghi chép writeup mình giải được trên các nên tảng CTF là chính.
 
-* **Facebook: https://www.facebook.com/hntrongsg**
-* **Email:    trunghieu190703@gmail.com**
+
