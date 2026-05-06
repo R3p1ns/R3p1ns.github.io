@@ -1,5 +1,5 @@
 ---
-title: Hành trình tìm lại chính mình
+title: Tui test coi git có okela ko
 publish: true
 ---
-tetete test TEST COMMIT
+nói chung là cũng dc
